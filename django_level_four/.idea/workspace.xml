@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eef744f8-868f-414f-b21f-1d28fb928dae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/learning_templates/templatetags/my_extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_templates/templatetags/my_extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_level_four/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_level_four/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575422019462</updated>
       <workItem from="1575422024444" duration="5278000" />
-      <workItem from="1575448810533" duration="3000" />
+      <workItem from="1575448810533" duration="1105000" />
     </task>
     <servers />
   </component>
